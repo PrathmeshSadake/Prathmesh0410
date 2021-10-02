@@ -15,7 +15,15 @@
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I’d love to combine my passion for learning with my software development skills to continue building personalized products for people.
 
-<!---
-Prathmesh0410/Prathmesh0410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prathmeshsadake&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsadake&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
